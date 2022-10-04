@@ -1,0 +1,13 @@
+center{
+    padding: 160px 15px 40px;
+}
+
+.bg{
+    background-color: rgb(83, 101, 109);
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+} 
