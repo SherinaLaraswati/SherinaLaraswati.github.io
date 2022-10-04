@@ -1,0 +1,44 @@
+center{
+    padding: 160px 15px 40px;
+}
+
+.bg{
+    background-color: rgb(83, 101, 109);
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+} 
+
+#theme{
+    width: 0;
+    height: 0;
+    position: fixed;
+    padding: 30px;
+    margin-left: 90%;
+}
+
+#theme img{
+    width: 25px;
+}
+
+.darkmode {
+    background-color: black;
+    color : rgb(218, 217, 232);
+}
+
+
+footer{
+    height: 30px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    background-color: rgb(40, 39, 39);
+}
+
+.outer-footer{
+    text-align: center;
+    color: rgb(209, 220, 230);
+} 
